@@ -1,0 +1,10 @@
+E:\C# Work Files\HorseRace\HorseRace\bin\Debug\HorseRace.exe.config
+E:\C# Work Files\HorseRace\HorseRace\bin\Debug\HorseRace.exe
+E:\C# Work Files\HorseRace\HorseRace\bin\Debug\HorseRace.pdb
+E:\C# Work Files\HorseRace\HorseRace\obj\Debug\HorseRace.csprojAssemblyReference.cache
+E:\C# Work Files\HorseRace\HorseRace\obj\Debug\HorseRace.Form1.resources
+E:\C# Work Files\HorseRace\HorseRace\obj\Debug\HorseRace.Properties.Resources.resources
+E:\C# Work Files\HorseRace\HorseRace\obj\Debug\HorseRace.csproj.GenerateResource.cache
+E:\C# Work Files\HorseRace\HorseRace\obj\Debug\HorseRace.csproj.CoreCompileInputs.cache
+E:\C# Work Files\HorseRace\HorseRace\obj\Debug\HorseRace.exe
+E:\C# Work Files\HorseRace\HorseRace\obj\Debug\HorseRace.pdb
